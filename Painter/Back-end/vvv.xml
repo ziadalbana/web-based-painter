@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<shapes>
+    <shape>
+        <id>s0</id>
+        <startPointX>378.0</startPointX>
+        <startPointY>366.5</startPointY>
+        <height>81.0</height>
+        <width>145.0</width>
+        <scaleX>1.0</scaleX>
+        <scaleY>1.0</scaleY>
+        <rotation>0.0</rotation>
+        <colorfill>#ffffff</colorfill>
+        <colorstroke>black</colorstroke>
+    </shape>
+</shapes>
